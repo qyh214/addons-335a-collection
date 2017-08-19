@@ -91,6 +91,12 @@ Do you have an addon compatible with 3.3.5a that is not in this list? Please sen
 
 <a href="https://yehonal.github.io/DownGit/#/home?url=https://github.com/wowgame/addons-335a-collection/tree/master/Carbonite" target="_blank">Carbonite</a>
 
+<a href="https://yehonal.github.io/DownGit/#/home?url=https://github.com/wowgame/addons-335a-collection/tree/master/CarboniteItems" target="_blank">CarboniteItems</a>
+
+<a href="https://yehonal.github.io/DownGit/#/home?url=https://github.com/wowgame/addons-335a-collection/tree/master/CarboniteNodes" target="_blank">CarboniteNodes</a>
+
+<a href="https://yehonal.github.io/DownGit/#/home?url=https://github.com/wowgame/addons-335a-collection/tree/master/CarboniteTransfer" target="_blank">CarboniteTransfer</a>
+
 <a href="https://yehonal.github.io/DownGit/#/home?url=https://github.com/wowgame/addons-335a-collection/tree/master/ClassLoot" target="_blank">ClassLoot</a>
 
 <a href="https://yehonal.github.io/DownGit/#/home?url=https://github.com/wowgame/addons-335a-collection/tree/master/Clique" target="_blank">Clique</a>
